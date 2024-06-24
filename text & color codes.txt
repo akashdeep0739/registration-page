@@ -1,0 +1,13 @@
+By clicking Sign Up, you agree to our Terms, Privacy Policy and Cookies Policy. You may receive SMS notification from us and can opt out any time.
+
+Body:
+#380036, #0cBABA
+
+gender-category
+gainsboro
+
+Button Color:
+#aa076b,#61045f
+
+Button hover color:
+#61045f,#aa076b
